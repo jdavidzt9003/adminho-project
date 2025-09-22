@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/adminho-project/static/css/main.d551f534.css",
+    "main.js": "/adminho-project/static/js/main.53ca51df.js",
+    "index.html": "/adminho-project/index.html",
+    "main.d551f534.css.map": "/adminho-project/static/css/main.d551f534.css.map",
+    "main.53ca51df.js.map": "/adminho-project/static/js/main.53ca51df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d551f534.css",
+    "static/js/main.53ca51df.js"
+  ]
+}
