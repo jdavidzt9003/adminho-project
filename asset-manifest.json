@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/adminho-project/static/css/main.d551f534.css",
-    "main.js": "/adminho-project/static/js/main.1a3ffc00.js",
+    "main.js": "/adminho-project/static/js/main.c595fee5.js",
     "index.html": "/adminho-project/index.html",
     "main.d551f534.css.map": "/adminho-project/static/css/main.d551f534.css.map",
-    "main.1a3ffc00.js.map": "/adminho-project/static/js/main.1a3ffc00.js.map"
+    "main.c595fee5.js.map": "/adminho-project/static/js/main.c595fee5.js.map"
   },
   "entrypoints": [
     "static/css/main.d551f534.css",
-    "static/js/main.1a3ffc00.js"
+    "static/js/main.c595fee5.js"
   ]
 }
